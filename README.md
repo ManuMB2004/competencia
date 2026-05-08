@@ -6,8 +6,8 @@
 
 | Nombre | GitHub |
 |--------|--------|
-| [Nombre 1] | [@ManuelMB2004](https://github.com/ManuelMB2004) |
-| [Nombre 2] | [@cabrerakeiner1019](https://github.com/cabrerakeiner1019) |
+| [Manuel Berbén] | [@ManuelMB2004](https://github.com/ManuelMB2004) |
+| [Keiner Cabrera] | [@cabrerakeiner1019](https://github.com/cabrerakeiner1019) |
 | [Nombre 3] | [@usuario](https://github.com/usuario) |
   [Nombre 4] | [@usuario](https://github.com/usuario) |
 ---
@@ -90,3 +90,4 @@ de productos en tiempo real.
 ## 🖼️ Capturas
 
 <!-- Agrega screenshots en la carpeta assets/ -->
+
